@@ -1,0 +1,4 @@
+west:
+  command: C:\Users\razie\.zinstaller\.venv\Scripts\west build
+  topdir: C:\zephyr\zephyrproject
+  version: 1.5.0
